@@ -1,3 +1,4 @@
+![images (2)](https://github.com/vishnu55510/Bank_churn/assets/162179720/eecc8670-cfed-4747-86e2-701d66d6e1b8)
 
 # Proactive Customer Retention: Churn Prediction for Sustainable Banking Growth
 
