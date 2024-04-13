@@ -1,4 +1,4 @@
-Proactive Customer Retention: Churn Prediction for Sustainable Banking Growth
+##Proactive Customer Retention: Churn Prediction for Sustainable Banking Growth
 Overview
 In the rapidly evolving landscape of the banking industry, customer retention stands as a linchpin for sustainable growth and financial success. This project addresses the critical challenge of identifying and mitigating customer churn - the phenomenon where customers discontinue their engagement with our services. The objective is to develop a robust churn prediction system that aligns with our business goals and empowers us to proactively retain valuable customers.
 
